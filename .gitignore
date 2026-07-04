@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.bak
+*.backup
+config
+audits/
+backups/
+domains-current.txt
+domains-previous.txt
+sha256-current.txt
+version-current.txt
+AUDIT_FAILED
