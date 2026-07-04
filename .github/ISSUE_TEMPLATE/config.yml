@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/by-sonic/claude-code-vds-proxy/security/advisories/new
+    about: Report vulnerabilities privately. Never post credentials or private logs.
+  - name: Claude Code documentation
+    url: https://code.claude.com/docs/en/corporate-proxy
+    about: Check the official proxy documentation before opening a compatibility issue.
