@@ -1,16 +1,3 @@
-<!-- ROSEVPN-BANNER-START -->
-<p align="center">
-  <a href="https://t.me/rosevpnru_bot">
-    <img alt="RoseVPN - fast VPN" src="https://img.shields.io/badge/%F0%9F%8C%B9%20RoseVPN-%D0%9F%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C%D1%81%D1%8F%20%D0%B2%20Telegram-E63946?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a1a" height="40"/>
-  </a>
-</p>
-<p align="center">
-  <sub><b>Fast VPN for YouTube, Discord and Instagram</b> · Free trial · Connect in 30 seconds with <a href="https://t.me/rosevpnru_bot">@rosevpnru_bot</a></sub>
-</p>
-
----
-<!-- ROSEVPN-BANNER-END -->
-
 <div align="center">
 
 # Claude Code VDS Proxy
